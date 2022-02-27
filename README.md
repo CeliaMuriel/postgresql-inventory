@@ -1,2 +1,3 @@
 # postgresql-inventory
-PostgreSQL Database Cluster Inventory
+
+Post: PostgreSQL Database Cluster Inventory --> https://celiamuriel.com/postgresql-database-cluster-inventory/
